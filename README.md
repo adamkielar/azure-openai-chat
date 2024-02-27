@@ -1,7 +1,8 @@
 # Environment variables:
 
-AZURE_OPENAI_KEY=<API Management subscription key>
-AZURE_OPENAI_BASE_URL="<API management url>/deployments/<deployment-id>"
+* AZURE_OPENAI_KEY=`<API Management subscription key>`
+
+* AZURE_OPENAI_BASE_URL=`<API management url>/deployments/<deployment-id>`
 
 # Run locally
 
